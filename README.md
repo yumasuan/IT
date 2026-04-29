@@ -60,7 +60,7 @@
 
 &#x20;  **```bash**
 
-&#x20;  **git clone <URL\_ВАШЕГО\_РЕПОЗИТОРИЯ>**
+&#x20;  **git clone <https://github.com/yumasuan/IT>**
 
 &#x20;  **cd github\_user\_finder**
 
